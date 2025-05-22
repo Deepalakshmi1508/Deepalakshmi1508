@@ -2,22 +2,27 @@
 - Welcome to my GitHub profile! I'm a Bioinformatics Master’s student at SASTRA University, with expertise in machine learning, statistical modeling, and data analysis.
 - I'm passionate about creating innovative data-driven solutions and AI applications that positively impact healthcare and business optimization.
 - Core knowledge
-- Molecular docking
-- NGS
-- Bioinformatics tools handling
-  Teck knowledge
-- Languages
-- python,R
-  Tools
-- Power BI,MS excel,VS code, GITHUB
-  Operating systems
-- linux,windows
- Web frameworks
-- flask,Tensorflowlite
+  Molecular docking NGS Bioinformatics tools handling
+🚀 Tech Stack
+Here’s a quick glance at the tools and technologies I work with:
+
+Languages
+Python SQL R
+
+Tools
+Power BI Tableau Excel
+VS Code GitHub
+
+Operating Systems
+Linux Windows
+
+Frameworks
+TensorFlow Keras Scikit-learn
+
  Web development
-- HTML,CSS,PHP,MYSQL
+ HTML CSS PHP MYSQL
 - 📚 Paper Publications
- 1.Title: Data-driven Insights for Deep Eutectic Solvent Design: High-Accuracy AI Prediction and Experimental Validation of Density, Viscosity, and Conductivity (1st submission done in SUSMAT journal with 8.7 impact factor)
+1.Title: Data-driven Insights for Deep Eutectic Solvent Design: High-Accuracy AI Prediction and Experimental Validation of Density, Viscosity, and Conductivity (1st submission done in SUSMAT journal with 8.7 impact factor)
 Details: Focusing on AI-based prediction and experimental validation of density, viscosity, and conductivity in DES systems. Utilized advanced machine learning models with high accuracy to accelerate green solvent formulation.
 Publication: Sustainable and Materials Technology (1st submission)
 2. Title: Next-Generation AI Models for Deep Eutectic Solvent Thermodynamic Predictions: A Comparative
