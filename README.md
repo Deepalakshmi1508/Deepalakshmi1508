@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Deepalakshmi!
 
-Welcome to my GitHub profile! I'm a **Bioinformatics Master’s student at SASTRA University**, with expertise in **machine learning**, **statistical modeling**, and **data analysis**. I'm passionate about creating **innovative data-driven solutions** and **AI applications** that contribute to advancements in **healthcare**, **green chemistry**, and **bioinformatics research**.
+Welcome to my GitHub profile! I'm a **Bioinformatics Master’s student at SASTRA University**, with expertise in **machine learning**, **statistical modeling**, and **data analysis**. I'm passionate about creating **innovative data-driven solutions** and **AI applications** that contribute to advancements in **healthcare**, **green chemistry**.
 
 ### 🧠 Core Knowledge
 
