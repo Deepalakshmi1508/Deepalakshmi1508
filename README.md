@@ -1,7 +1,8 @@
-👋 Hi, I'm Deepalakshmi!
+## 👋 Hi, I'm Deepalakshmi!
 
-Welcome to my GitHub profile! I'm a **Bioinformatics Master’s student at SASTRA University**, with expertise in **machine learning**, **statistical modeling**, and **data analysis**. I'm passionate about creating **innovative data-driven solutions** and **AI applications** that contribute to advancements in **healthcare**, **green chemistry**, and **bioinformatics research
-🧠 Core Knowledge
+Welcome to my GitHub profile! I'm a **Bioinformatics Master’s student at SASTRA University**, with expertise in **machine learning**, **statistical modeling**, and **data analysis**. I'm passionate about creating **innovative data-driven solutions** and **AI applications** that contribute to advancements in **healthcare**, **green chemistry**, and **bioinformatics research**.
+
+### 🧠 Core Knowledge
 
 * **Molecular Docking**
 * **NGS Data Analysis**
@@ -74,12 +75,4 @@ Created a mobile app with ML models to predict carcinogenicity from user-drawn m
 
 Developed a GUI tool for advanced manipulation and analysis of CIF files, supporting dimer detection, torsion angles, bond lengths, and symmetry.
 
----
 
-Let me know if you'd like a markdown version for GitHub or a `.md` file download.
-
-
-<!---
-Deepalakshmi1508/Deepalakshmi1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
